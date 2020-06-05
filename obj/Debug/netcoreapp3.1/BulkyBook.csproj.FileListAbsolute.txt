@@ -379,3 +379,7 @@
 /home/mehmet/projects/net-core/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Customer/Views/Home/Privacy.cshtml.g.cs
 /home/mehmet/projects/net-core/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Customer/Views/_ViewImports.cshtml.g.cs
 /home/mehmet/projects/net-core/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Customer/Views/_ViewStart.cshtml.g.cs
+/home/mehmet/projects/net-core/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Index.cshtml.g.cs
+/home/mehmet/projects/net-core/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/Home/Privacy.cshtml.g.cs
+/home/mehmet/projects/net-core/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewImports.cshtml.g.cs
+/home/mehmet/projects/net-core/BulkyBook/obj/Debug/netcoreapp3.1/Razor/Areas/Admin/Views/_ViewStart.cshtml.g.cs
